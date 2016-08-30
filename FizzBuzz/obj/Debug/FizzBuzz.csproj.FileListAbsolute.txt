@@ -1,0 +1,9 @@
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\WindowsFormsApplication4.Okienko.resources
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Sii\Projects\WindowsFormsApplication4\WindowsFormsApplication4\FizzBuzz\obj\Debug\FizzBuzz.csproj.GenerateResource.Cache
